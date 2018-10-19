@@ -17,6 +17,11 @@ public class Coil extends StatusMove {
   }
 
   @Override
+  protected boolean checkAccuracy(Pokemon att, Pokemon def) {
+    return true;
+  }
+
+  @Override
   protected void applySelfEffects(Pokemon self) {
     self.setMod(Stat.ATTACK, 1);
     self.setMod(Stat.DEFENSE, 1);

@@ -16,6 +16,11 @@ public class DefenseCurl extends StatusMove {
   }
 
   @Override
+  protected boolean checkAccuracy(Pokemon att, Pokemon def) {
+    return true;
+  }
+
+  @Override
   protected void applySelfEffects(Pokemon self) {
     self.setMod(Stat.DEFENSE, 1);
   }
