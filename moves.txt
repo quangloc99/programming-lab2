@@ -1,0 +1,14 @@
+Facade        Phy - NORMAL  70, 100%          Power doubles if user is burned, paralyzed, or poisoned.
+Focus Blast   Spe - FIGHT   120, 70%          Has a 10% chance to lower the target's Special Defense by one stage.
+Rock Tomb     Phy - ROCK    60, 95%           Has a 100% chance to lower the target's Speed by one stage.
+Earth Power   Spe - GROUND  90, 100%          Has a 10% chance to lower the target's Special Defense by one stage.
+
+Flamethrower  Spe - FIRE    90, 100%          Has a 10% chance to burn the target.
+DefenseCurl   Sta - NORMAL  NO, 100%          Raises user's Defense by one stage.
+Scratch       Phy - NORMAL  40, 100%          Inflicts regular damage with no additional effect.
+Coil          Sta - POISON  NO, 100%          Raises the user's Attack, Defense, and accuracy by one stage each.
+
+DreamEater    Spe - PSYCHC  100, 100%         Only works on sleeping Pokémon. Drains half the damage inflicted to heal the user.
+Fire Blast    Spe - FIRE    110, 85%          Has a 10% chance to burn the target.
+NightShade    Spe - GHOST   (no fix), 100%    Inflicts damage equal to the user's level.
+Psychic       Spe - PSYCHC  90, 100%          Has a 10% chance to lower the target's Special Defense by one stage.
