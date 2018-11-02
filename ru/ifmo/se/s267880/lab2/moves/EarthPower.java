@@ -12,7 +12,7 @@ public class EarthPower extends SpecialMove {
 
   @Override
   protected String describe() {
-    return "Has a 10% chance to lower the target's Special Defense by one stage.";
+    return "Earth Power: Has a 10% chance to lower the target's Special Defense by one stage";
   }
 
   @Override

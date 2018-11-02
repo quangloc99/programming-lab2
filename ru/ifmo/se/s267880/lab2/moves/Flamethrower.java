@@ -12,7 +12,7 @@ public class Flamethrower extends SpecialMove {
 
   @Override
   protected String describe() {
-    return "Has a 10% chance to burn the target.";
+    return "Flamethrower: Has a 10% chance to burn the target";
   }
 
   @Override

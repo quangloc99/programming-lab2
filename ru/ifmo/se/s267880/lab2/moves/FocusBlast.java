@@ -13,7 +13,7 @@ public class FocusBlast extends SpecialMove {
 
   @Override
   protected String describe() {
-    return "Has a 10% chance to lower the target's Special Defense by one stage.";
+    return "Focus Blast: Has a 10% chance to lower the target's Special Defense by one stage";
   }
 
   @Override

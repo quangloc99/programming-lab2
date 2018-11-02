@@ -11,7 +11,7 @@ public class Facade extends PhysicalMove {
 
   @Override
   protected String describe() {
-    return "Power doubles if user is burned, paralyzed, or poisoned.";
+    return "Facade: Power doubles if user is burned, paralyzed, or poisoned";
   }
 
   @Override

@@ -12,7 +12,7 @@ public class Psychic extends SpecialMove {
 
   @Override
   protected String describe() {
-    return "Has a 10% chance to lower the target's Special Defense by one stage.";
+    return "Psychic: Has a 10% chance to lower the target's Special Defense by one stage";
   }
 
   @Override

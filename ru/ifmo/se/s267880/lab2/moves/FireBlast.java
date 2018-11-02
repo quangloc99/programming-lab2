@@ -12,7 +12,7 @@ public class FireBlast extends SpecialMove {
 
   @Override
   protected String describe() {
-    return "Has a 10% chance to burn the target.";
+    return "Fire Blast: Has a 10% chance to burn the target";
   }
 
   @Override

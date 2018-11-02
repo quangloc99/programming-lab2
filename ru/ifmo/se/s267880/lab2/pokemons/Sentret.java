@@ -12,6 +12,7 @@ public class Sentret extends Pokemon {
 
   public Sentret(String name, int level) {
     super(name, level);
+    setStats(35, 46, 34, 35, 45, 20);
     
     // moves learnt by using machine
     addMove(new Flamethrower());

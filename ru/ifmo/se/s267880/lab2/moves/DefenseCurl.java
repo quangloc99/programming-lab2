@@ -12,7 +12,7 @@ public class DefenseCurl extends StatusMove {
 
   @Override
   protected String describe() {
-    return "Raises user's Defense by one stage.";
+    return "DefenseCurl: Raises user's Defense by one stage";
   }
 
   @Override

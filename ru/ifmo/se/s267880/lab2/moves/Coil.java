@@ -13,7 +13,7 @@ public class Coil extends StatusMove {
   @Override
   protected String describe() {
     // yep, strong one
-    return "Raises the user's Attack, Defense, and accuracy by one stage each.";
+    return "Coil: Raises the user's Attack, Defense, and accuracy by one stage each";
   }
 
   @Override

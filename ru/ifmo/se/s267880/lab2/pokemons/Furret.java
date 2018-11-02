@@ -11,6 +11,7 @@ public class Furret extends Sentret {
 
   public Furret(String name, int level) {
     super(name, level);
+    setStats(85, 76, 64, 45, 55, 90);
     
     // no level required
     addMove(new Coil());

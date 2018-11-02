@@ -11,7 +11,7 @@ public class NightShade extends SpecialMove {
 
   @Override
   protected String describe() {
-    return "Inflicts damage equal to the user's level.";
+    return "Night Shade: Inflicts damage equal to the user's level";
   }
 
   @Override

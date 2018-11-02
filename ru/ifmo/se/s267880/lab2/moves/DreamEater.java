@@ -13,7 +13,7 @@ public class DreamEater extends SpecialMove {
 
   @Override
   protected String describe() {
-    return "Dream Eater only works if the target is asleep. Dream Eater inflicts damage and 50% of the damage dealt (rounded up) is restored to the user as HP.";
+    return "Dream Eater: Dream Eater only works if the target is asleep. Dream Eater inflicts damage and 50% of the damage dealt (rounded up) is restored to the user as HP";
   }
 
   @Override

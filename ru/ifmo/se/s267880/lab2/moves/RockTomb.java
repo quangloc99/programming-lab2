@@ -12,7 +12,7 @@ public class RockTomb extends PhysicalMove {
 
   @Override
   protected String describe() {
-    return "Has a 100% chance to lower the target's Speed by one stage.";
+    return "Rock Tomb: Has a 100% chance to lower the target's Speed by one stage";
   }
 
   @Override
